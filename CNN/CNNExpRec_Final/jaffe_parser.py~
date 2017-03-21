@@ -1,0 +1,75 @@
+# -*- coding:utf-8 -*- 
+
+'''
+this file reads images and parse file names
+'''
+
+import numpy as np
+import os
+from scipy.misc import imresize
+import matplotlib.image
+
+class Jaffee_Parser:
+
+    # --------------- images_to_tensor ------------------
+
+    def images_to_tensor(self):
+        images = []
+        for file in sorted(os.listdir('data/jaffe_images_small')) :
+            if (file != '.DS_Store'):
+                image = matplotlib.image.imread('data/jaffe_images_small/' + file)  # read images
+                if (len(np.shape(image)) > 2):
+                    image = image[:,:,0]
+                image = image.tolist()  # convert to list ?
+                image = imresize(image, (48,48))  # compress to 48*48 pixel
+                images.append(image)
+        image_tensor = np.array(images)
+        image_tensor = image_tensor - np.mean(image_tensor, axis = 0)  # ???
+        image_tensor = image_tensor.reshape(213, 48, 48, 1)  # 213 images in data/jaffe_images_small, each one 48*48 pixel
+        return image_tensor
+
+    # --------------- text_to_tensor ------------------
+
+    def text_to_tensor(self):
+        labels = []
+        text = open('data/jaffe_labels/JAFFE_labels.txt')  # read label
+        for line in text.readlines()[2:]:  # just read HAP SAD SUR ANG DIS FEA PIC
+            line_labels = line.split()
+            labels.append(line_labels[1:-1])
+        label_tensor = np.array(labels)
+        return label_tensor
+
+    # --------------- text_to_one_hot ------------------
+    # onehot是一位有效编码，有N个状态，我们使用N个位来表示对应的状态
+
+    def text_to_one_hot(self):
+        labels = []  # labels are of the form [NEU HAP SAD SUR ANG DIS FEA] = neutral happy sad surprise angry disgust fear
+        text = open('data/jaffe_labels/JAFFE_labels.txt')
+        for line in text.readlines()[2:]:
+            line_label = line[-4:-2]  # e.g. NE HA SA SU AN DI FE
+            tag = line [-7:-1]  # e.g. YM-AN3
+            index = 0
+            if line_label == 'NE':
+                index = 6
+            if line_label == 'HA':
+                index = 3
+            if line_label == 'SA':
+                index = 4
+            if line_label == 'SU':
+                index = 5
+            if line_label == 'AN':
+                index = 0
+            if line_label == 'DI':
+                index = 1
+            if line_label == 'FE':
+                index = 2
+            labels.append([tag,index])  # labels e.g. [YM-AN3, 0] size 213
+        label_tensor = np.array(labels)
+        i = np.argsort(label_tensor[:,0])  # i is an array of size 213
+        label_tensor = label_tensor[i]
+        label_tensor = label_tensor[:,1]
+        label_tensor = label_tensor.astype(int)
+        one_hot = np.zeros([np.size(label_tensor), 7])  # 0 matrix (lines num:)label_tensor * 7
+        for i in range(np.size(label_tensor)):
+            one_hot[i, label_tensor[i]] = 1
+        return one_hot

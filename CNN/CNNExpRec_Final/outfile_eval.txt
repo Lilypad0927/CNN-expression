@@ -1,0 +1,68 @@
+Testing model...
+
+Test correctness:
+nan
+
+Testing model...
+
+Test correctness:
+nan
+
+Testing model...
+
+Test correctness:
+nan
+
+Testing model...
+
+Test correctness:
+nan
+
+[nan]
+Testing model...
+
+Test correctness:
+nan
+
+[nan]
+Testing model...
+
+Test correctness:
+0.676666666667
+
+Testing model...
+
+Test correctness:
+0.66
+
+[0.66000000000000003]
+Testing model...
+
+Test correctness:
+0.293333333333
+
+[0.29333333333333333]
+Testing model...
+
+Test correctness:
+1.0
+
+[1.0]
+Testing model...
+
+Test correctness:
+0.993333333333
+
+[0.99333333333333329]
+Testing model...
+
+Test correctness:
+0.996666666667
+
+[0.9966666666666667]
+Testing model...
+
+Test correctness:
+0.996666666667
+
+[0.9966666666666667]

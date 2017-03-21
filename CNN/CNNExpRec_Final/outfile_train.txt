@@ -1,0 +1,2544 @@
+Training model...
+
+Iteration: 0
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 1
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 2
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 3
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 4
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 5
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 6
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 7
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 8
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 9
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 10
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 11
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 12
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 13
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 14
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 15
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 16
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 17
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 18
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 19
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 20
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 21
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 22
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 23
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 24
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 25
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 26
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 27
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 28
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 29
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 30
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 31
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 32
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 33
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 34
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 35
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 36
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 37
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 38
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 39
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 40
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 41
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 42
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 43
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 44
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 45
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 46
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 47
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 48
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 49
+Train correctness:
+nan
+Test correctness:
+nan
+
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+Training model...
+
+Iteration: 0
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 1
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 2
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 3
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 4
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 5
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 6
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 7
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 8
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 9
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 10
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 11
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 12
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 13
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 14
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 15
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 16
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 17
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 18
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 19
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 20
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 21
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 22
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 23
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 24
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 25
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 26
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 27
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 28
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 29
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 30
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 31
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 32
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 33
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 34
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 35
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 36
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 37
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 38
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 39
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 40
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 41
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 42
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 43
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 44
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 45
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 46
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 47
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 48
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 49
+Train correctness:
+nan
+Test correctness:
+nan
+
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+Training model...
+
+Iteration: 0
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 1
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 2
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 3
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 4
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 5
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 6
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 7
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 8
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 9
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 10
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 11
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 12
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 13
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 14
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 15
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 16
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 17
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 18
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 19
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 20
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 21
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 22
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 23
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 24
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 25
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 26
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 27
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 28
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 29
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 30
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 31
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 32
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 33
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 34
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 35
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 36
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 37
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 38
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 39
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 40
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 41
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 42
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 43
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 44
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 45
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 46
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 47
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 48
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 49
+Train correctness:
+nan
+Test correctness:
+nan
+
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+Training model...
+
+Iteration: 0
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 1
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 2
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 3
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 4
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 5
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 6
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 7
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 8
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 9
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 10
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 11
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 12
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 13
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 14
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 15
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 16
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 17
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 18
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 19
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 20
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 21
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 22
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 23
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 24
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 25
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 26
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 27
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 28
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 29
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 30
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 31
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 32
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 33
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 34
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 35
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 36
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 37
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 38
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 39
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 40
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 41
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 42
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 43
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 44
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 45
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 46
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 47
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 48
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 49
+Train correctness:
+nan
+Test correctness:
+nan
+
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+Training model...
+
+Iteration: 0
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 1
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 2
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 3
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 4
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 5
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 6
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 7
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 8
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 9
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 10
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 11
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 12
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 13
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 14
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 15
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 16
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 17
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 18
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 19
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 20
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 21
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 22
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 23
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 24
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 25
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 26
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 27
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 28
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 29
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 30
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 31
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 32
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 33
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 34
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 35
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 36
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 37
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 38
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 39
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 40
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 41
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 42
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 43
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 44
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 45
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 46
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 47
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 48
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 49
+Train correctness:
+nan
+Test correctness:
+nan
+
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+Training model...
+
+Iteration: 0
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 1
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 2
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 3
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 4
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 5
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 6
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 7
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 8
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 9
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 10
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 11
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 12
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 13
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 14
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 15
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 16
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 17
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 18
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 19
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 20
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 21
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 22
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 23
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 24
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 25
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 26
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 27
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 28
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 29
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 30
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 31
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 32
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 33
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 34
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 35
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 36
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 37
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 38
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 39
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 40
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 41
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 42
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 43
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 44
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 45
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 46
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 47
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 48
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 49
+Train correctness:
+nan
+Test correctness:
+nan
+
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+Training model...
+
+Iteration: 0
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 1
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 2
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 3
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 4
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 5
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 6
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 7
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 8
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 9
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 10
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 11
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 12
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 13
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 14
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 15
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 16
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 17
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 18
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 19
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 20
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 21
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 22
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 23
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 24
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 25
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 26
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 27
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 28
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 29
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 30
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 31
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 32
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 33
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 34
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 35
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 36
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 37
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 38
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 39
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 40
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 41
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 42
+Train correctness:
+nan
+Test correctness:
+nan
+
+Training model...
+
+Iteration: 0
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 1
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 2
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 3
+Train correctness:
+nan
+Test correctness:
+nan
+
+Training model...
+
+Iteration: 0
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 1
+Train correctness:
+nan
+Test correctness:
+nan
+
+Training model...
+
+Iteration: 0
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 1
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 2
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 3
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 4
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 5
+Train correctness:
+nan
+Test correctness:
+nan
+
+Iteration: 6
+Train correctness:
+nan
+Test correctness:
+nan
+
+Training model...
+
+Training model...
+
+Iteration: 0
+Train correctness:
+1.0
+Test correctness:
+nan
+
+Iteration: 1
+Train correctness:
+1.0
+Test correctness:
+nan
+
+Iteration: 2
+Train correctness:
+1.0
+Test correctness:
+nan
+
+Iteration: 3
+Train correctness:
+1.0
+Test correctness:
+nan
+
+Iteration: 4
+Train correctness:
+1.0
+Test correctness:
+nan
+
+Iteration: 5
+Train correctness:
+1.0
+Test correctness:
+nan
+
+Iteration: 6
+Train correctness:
+1.0
+Test correctness:
+nan
+
+Iteration: 7
+Train correctness:
+1.0
+Test correctness:
+nan
+
+Iteration: 8
+Train correctness:
+1.0
+Test correctness:
+nan
+
+Iteration: 9
+Train correctness:
+1.0
+Test correctness:
+nan
+
+Iteration: 10
+Train correctness:
+1.0
+Test correctness:
+nan
+
+Iteration: 11
+Train correctness:
+1.0
+Test correctness:
+nan
+
+Training model...
+
+Iteration: 0
+Train correctness:
+1.0
+Test correctness:
+nan
+
+Training model...
+
+Iteration: 0
+Train correctness:
+nan
+Test correctness:
+0.2
+
+Iteration: 1
+Train correctness:
+nan
+Test correctness:
+0.2
+
+Iteration: 2
+Train correctness:
+nan
+Test correctness:
+0.24
+
+Iteration: 3
+Train correctness:
+nan
+Test correctness:
+0.2
+
+Iteration: 4
+Train correctness:
+nan
+Test correctness:
+0.18
+
+[0.20000000000000001, 0.20000000000000001, 0.23999999999999999, 0.20000000000000001, 0.17999999999999999]
+[nan, nan, nan, nan, nan]
+Training model...
+
+Training model...
+
+Training model...
+
+Training model...
+
+Training model...
+
+Training model...
+
+Iteration: 0
+Train correctness:
+0.2
+Test correctness:
+0.22
+
+Iteration: 1
+Train correctness:
+0.3
+Test correctness:
+0.24
+
+Iteration: 2
+Train correctness:
+0.32
+Test correctness:
+0.3
+
+Iteration: 3
+Train correctness:
+0.48
+Test correctness:
+0.3
+
+Iteration: 4
+Train correctness:
+0.4
+Test correctness:
+0.28
+
+[0.22, 0.23999999999999999, 0.29999999999999999, 0.29999999999999999, 0.28000000000000003]
+[0.20000000000000001, 0.29999999999999999, 0.32000000000000001, 0.47999999999999998, 0.40000000000000002]
+Training model...
+
+Iteration: 0
+Train correctness:
+0.92
+Test correctness:
+nan
+
+Iteration: 1
+Train correctness:
+0.98
+Test correctness:
+nan
+
+Iteration: 2
+Train correctness:
+1.0
+Test correctness:
+nan
+
+Iteration: 3
+Train correctness:
+1.0
+Test correctness:
+nan
+
+Iteration: 4
+Train correctness:
+1.0
+Test correctness:
+nan
+
+[nan, nan, nan, nan, nan]
+[0.92000000000000004, 0.97999999999999998, 1.0, 1.0, 1.0]
+Training model...
+
+Iteration: 0
+Train correctness:
+0.92
+Test correctness:
+nan
+
+Iteration: 1
+Train correctness:
+0.98
+Test correctness:
+nan
+
+Iteration: 2
+Train correctness:
+1.0
+Test correctness:
+nan
+
+Iteration: 3
+Train correctness:
+0.98
+Test correctness:
+nan
+
+Iteration: 4
+Train correctness:
+1.0
+Test correctness:
+nan
+
+[nan, nan, nan, nan, nan]
+[0.92000000000000004, 0.97999999999999998, 1.0, 0.97999999999999998, 1.0]
+Training model...
+
+Iteration: 0
+Train correctness:
+1.0
+Test correctness:
+1.0
+
+Iteration: 1
+Train correctness:
+1.0
+Test correctness:
+1.0
+
+Iteration: 2
+Train correctness:
+1.0
+Test correctness:
+1.0
+
+Iteration: 3
+Train correctness:
+1.0
+Test correctness:
+1.0
+
+Iteration: 4
+Train correctness:
+1.0
+Test correctness:
+1.0
+
+[1.0, 1.0, 1.0, 1.0, 1.0]
+[1.0, 1.0, 1.0, 1.0, 1.0]
+Training model...
+
+Iteration: 0
+Train correctness:
+1.0
+Test correctness:
+1.0
+
+Iteration: 1
+Train correctness:
+1.0
+Test correctness:
+1.0
+
+Iteration: 2
+Train correctness:
+1.0
+Test correctness:
+1.0
+
+Iteration: 3
+Train correctness:
+1.0
+Test correctness:
+1.0
+
+Iteration: 4
+Train correctness:
+1.0
+Test correctness:
+1.0
+
+[1.0, 1.0, 1.0, 1.0, 1.0]
+[1.0, 1.0, 1.0, 1.0, 1.0]
+Training model...
+
+Iteration: 0
+Train correctness:
+1.0
+Test correctness:
+1.0
+
+Iteration: 1
+Train correctness:
+1.0
+Test correctness:
+1.0
+
+Iteration: 2
+Train correctness:
+1.0
+Test correctness:
+1.0
+
+Iteration: 3
+Train correctness:
+1.0
+Test correctness:
+1.0
+
+Iteration: 4
+Train correctness:
+1.0
+Test correctness:
+1.0
+
+[1.0, 1.0, 1.0, 1.0, 1.0]
+[1.0, 1.0, 1.0, 1.0, 1.0]
+Training model...
+
+Iteration: 0
+Train correctness:
+1.0
+Test correctness:
+0.96
+
+Iteration: 1
+Train correctness:
+0.98
+Test correctness:
+1.0
+
+Iteration: 2
+Train correctness:
+1.0
+Test correctness:
+1.0
+
+Iteration: 3
+Train correctness:
+1.0
+Test correctness:
+1.0
+
+Iteration: 4
+Train correctness:
+1.0
+Test correctness:
+0.98
+
+[0.95999999999999996, 1.0, 1.0, 1.0, 0.97999999999999998]
+[1.0, 0.97999999999999998, 1.0, 1.0, 1.0]
+Training model...
+
+Iteration: 0
+Train correctness:
+0.9
+Test correctness:
+0.92
+
+[0.92000000000000004]
+[0.90000000000000002]
